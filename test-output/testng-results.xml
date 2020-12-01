@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[INFO: The value found with Environment variable Falcon is: Falcon]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment Module variable loginSuite,buyProductSuite is: loginSuite,buyProductSuite]]>
+    </line>
+    <line>
+      <![CDATA[The value found with Environment variable WIN_10_chrome_84,WIN_10_firefox_81 is: WIN_10_chrome_84,WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Clients Found: [Falcon]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Modules Selected: [buyProductSuite, loginSuite]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_firefox_81" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="81"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_firefox_81 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_firefox_81" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="81"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_firefox_81 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName and Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Login Button]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment variable Falcon is: Falcon]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment Module variable loginSuite,buyProductSuite is: loginSuite,buyProductSuite]]>
+    </line>
+    <line>
+      <![CDATA[The value found with Environment variable WIN_10_chrome_84,WIN_10_firefox_81 is: WIN_10_chrome_84,WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Clients Found: [Falcon]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Modules Selected: [buyProductSuite, loginSuite]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_firefox_81" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="81"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_firefox_81 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_firefox_81]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_firefox_81" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="81"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_firefox_81 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Entering Checkout Details ]]>
+    </line>
+    <line>
+      <![CDATA[Product has been Ordered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName and Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Entering Checkout Details ]]>
+    </line>
+    <line>
+      <![CDATA[No such element found with xpath //a[@class='btn_action cart_button']]]>
+    </line>
+    <line>
+      <![CDATA[Locator type doesn't exist null]]>
+    </line>
+    <line>
+      <![CDATA[Product has been Ordered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName and Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Entering Checkout Details ]]>
+    </line>
+    <line>
+      <![CDATA[Product has been Ordered]]>
+    </line>
+    <line>
+      <![CDATA[Entering UserName and Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Entering Checkout Details ]]>
+    </line>
+    <line>
+      <![CDATA[Product has been Ordered]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-12-01T04:37:28Z" name="Falcon-Sample-WIN_10_chrome_84 (0)" finished-at="2020-12-01T04:37:52Z" duration-ms="23416">
+    <groups>
+    </groups>
+    <test started-at="2020-12-01T04:37:28Z" name="SampleTest" finished-at="2020-12-01T04:37:52Z" duration-ms="23416">
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:29Z" name="preSetup" finished-at="2020-12-01T04:37:29Z" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:29Z" name="initBrowser" finished-at="2020-12-01T04:37:29Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="buyProductTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:29Z" name="buyProductTest" data-provider="checkOutData" finished-at="2020-12-01T04:37:43Z" duration-ms="13944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut@28c2c22e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Entering Checkout Details ]]>
+            </line>
+            <line>
+              <![CDATA[Product has been Ordered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyProductTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:43Z" name="teardown" finished-at="2020-12-01T04:37:45Z" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:45Z" name="preSetup" finished-at="2020-12-01T04:37:45Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="buyProductTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:45Z" name="buyProductTest" data-provider="checkOutData" finished-at="2020-12-01T04:37:52Z" duration-ms="7256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut@75d7d80b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Entering Checkout Details ]]>
+            </line>
+            <line>
+              <![CDATA[No such element found with xpath //a[@class='btn_action cart_button']]]>
+            </line>
+            <line>
+              <![CDATA[Locator type doesn't exist null]]>
+            </line>
+            <line>
+              <![CDATA[Product has been Ordered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyProductTest -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:45Z" name="initBrowser" finished-at="2020-12-01T04:37:45Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@7e2b000e]" started-at="2020-12-01T04:37:52Z" name="teardown" finished-at="2020-12-01T04:37:52Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_chrome_84 (0) -->
+  <suite started-at="2020-12-01T04:37:28Z" name="Falcon-Sample-WIN_10_chrome_84" finished-at="2020-12-01T04:37:47Z" duration-ms="18387">
+    <groups>
+    </groups>
+    <test started-at="2020-12-01T04:37:28Z" name="SampleTest" finished-at="2020-12-01T04:37:47Z" duration-ms="18387">
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:29Z" name="preSetup" finished-at="2020-12-01T04:37:29Z" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:29Z" name="initBrowser" finished-at="2020-12-01T04:37:29Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="loginTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:29Z" name="loginTest" data-provider="loginData" finished-at="2020-12-01T04:37:42Z" duration-ms="12779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin@5b2c3d87]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName and Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Login Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:42Z" name="teardown" finished-at="2020-12-01T04:37:42Z" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:42Z" name="preSetup" finished-at="2020-12-01T04:37:42Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:42Z" name="initBrowser" finished-at="2020-12-01T04:37:42Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="loginTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:42Z" name="loginTest" data-provider="loginData" finished-at="2020-12-01T04:37:47Z" duration-ms="4625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin@35a6afb7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName and Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Login Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@214bbc61]" started-at="2020-12-01T04:37:47Z" name="teardown" finished-at="2020-12-01T04:37:47Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+  <suite started-at="2020-12-01T04:37:52Z" name="Falcon-Sample-WIN_10_firefox_81 (0)" finished-at="2020-12-01T04:38:32Z" duration-ms="40265">
+    <groups>
+    </groups>
+    <test started-at="2020-12-01T04:37:52Z" name="SampleTest" finished-at="2020-12-01T04:38:32Z" duration-ms="40265">
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:37:52Z" name="preSetup" finished-at="2020-12-01T04:37:52Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:37:52Z" name="initBrowser" finished-at="2020-12-01T04:37:52Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="buyProductTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:37:52Z" name="buyProductTest" data-provider="checkOutData" finished-at="2020-12-01T04:38:08Z" duration-ms="15629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut@1434fbb5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Entering Checkout Details ]]>
+            </line>
+            <line>
+              <![CDATA[Product has been Ordered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyProductTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:38:08Z" name="teardown" finished-at="2020-12-01T04:38:15Z" duration-ms="7343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:38:15Z" name="preSetup" finished-at="2020-12-01T04:38:15Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:38:15Z" name="initBrowser" finished-at="2020-12-01T04:38:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="buyProductTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:38:15Z" name="buyProductTest" data-provider="checkOutData" finished-at="2020-12-01T04:38:30Z" duration-ms="14720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserCheckOut@2bfa3d26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Product added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Entering Checkout Details ]]>
+            </line>
+            <line>
+              <![CDATA[Product has been Ordered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyProductTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass@3a4fcd5e]" started-at="2020-12-01T04:38:30Z" name="teardown" finished-at="2020-12-01T04:38:32Z" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atmecs.SauceDemoWebsiteProject.testscript.BuyProductClass -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_firefox_81 (0) -->
+  <suite started-at="2020-12-01T04:37:47Z" name="Falcon-Sample-WIN_10_firefox_81" finished-at="2020-12-01T04:38:27Z" duration-ms="39906">
+    <groups>
+    </groups>
+    <test started-at="2020-12-01T04:37:47Z" name="SampleTest" finished-at="2020-12-01T04:38:27Z" duration-ms="39906">
+      <class name="com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:37:47Z" name="preSetup" finished-at="2020-12-01T04:37:47Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="loginTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:37:47Z" name="loginTest" data-provider="loginData" finished-at="2020-12-01T04:38:04Z" duration-ms="17396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin@36b01424]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName and Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Login Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:37:47Z" name="initBrowser" finished-at="2020-12-01T04:37:47Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:38:04Z" name="teardown" finished-at="2020-12-01T04:38:07Z" duration-ms="2954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:38:07Z" name="preSetup" finished-at="2020-12-01T04:38:07Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method is-config="true" signature="initBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:38:07Z" name="initBrowser" finished-at="2020-12-01T04:38:07Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="loginTest(com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin)[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:38:07Z" name="loginTest" data-provider="loginData" finished-at="2020-12-01T04:38:19Z" duration-ms="11895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.atmecs.SauceDemoWebsiteProject.testdata.SwagLabsUserLogin@45acd3d3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entering UserName and Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Login Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass@584cecee]" started-at="2020-12-01T04:38:19Z" name="teardown" finished-at="2020-12-01T04:38:27Z" duration-ms="7526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atmecs.SauceDemoWebsiteProject.testscript.LoginClass -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_firefox_81 -->
+</testng-results>

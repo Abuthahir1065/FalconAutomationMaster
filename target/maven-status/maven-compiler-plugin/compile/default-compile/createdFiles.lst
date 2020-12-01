@@ -1,0 +1,13 @@
+com\atmecs\SauceDemoWebsiteProject\pages\LoginPage.class
+com\atmecs\SauceDemoWebsiteProject\testsuite\SampleTestSuiteBase.class
+com\atmecs\SauceDemoWebsiteProject\testscript\LoginClass.class
+com\atmecs\SauceDemoWebsiteProject\testscript\BuyProductClass.class
+com\atmecs\SauceDemoWebsiteProject\utils\PropertyReader.class
+com\atmecs\SauceDemoWebsiteProject\pages\BasePage.class
+com\atmecs\SauceDemoWebsiteProject\pages\BuyProductPage.class
+com\atmecs\SauceDemoWebsiteProject\runner\TestNGRunner.class
+com\atmecs\SauceDemoWebsiteProject\constant\FilePathConstants.class
+com\atmecs\SauceDemoWebsiteProject\testdata\LoginDataProvider.class
+com\atmecs\SauceDemoWebsiteProject\testdata\CheckOutDataProvider.class
+com\atmecs\SauceDemoWebsiteProject\testdata\SwagLabsUserCheckOut.class
+com\atmecs\SauceDemoWebsiteProject\testdata\SwagLabsUserLogin.class
